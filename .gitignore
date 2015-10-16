@@ -1,0 +1,10 @@
+/build/
+/bin/
+/.settings/
+/.gradle/
+/.classpath
+/.project
+/CalculatorTest.class
+/err.txt
+/compile/
+/compile/
